@@ -3,3 +3,6 @@ description:
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-leap-day
+
+ios_url: https://apps.apple.com/app/itunes-connect/id376771144
+android_url: https://play.google.com/store/apps/details?id=com.voidmaze.counter

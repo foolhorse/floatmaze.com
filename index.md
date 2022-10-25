@@ -19,7 +19,7 @@ layout: default
 
 ## iOS 客户端下载
 
-<https://apps.apple.com/app/itunes-connect/id376771144>
+<{{ site.ios_url }}>
 
 ## Android 客户端下载
 
