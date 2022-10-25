@@ -23,5 +23,8 @@ layout: default
 
 ## Android 客户端下载
 
+[点我下载]({{ site.android_url }})
+
+
 
 
