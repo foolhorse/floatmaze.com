@@ -5,4 +5,4 @@ google_analytics:
 theme: jekyll-theme-leap-day
 
 ios_url: https://apps.apple.com/app/id6443873259
-android_url: https://play.google.com/store/apps/details?id=com.voidmaze.counter
+android_url: /assets/GarlicCounterv1.0.apk
